@@ -1,0 +1,21 @@
+#indice li>a:link {
+    color: cyan;text-decoration: none;
+}
+
+#pie a:link {
+    color: cyan; text-decoration: none; 
+}
+
+#pie a:visited{
+    color: cyan;
+}
+
+#pie a:hover {
+    background-color: #FFFF;color: #00fddd;  border-color: #0000;
+    border-style: solid;font-style: normal; font-style: normal;   
+}
+
+#indice li>a:visited {
+    text-decoration: none; font-style: italic;
+    color: cyan;
+}

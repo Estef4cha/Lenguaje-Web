@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/champions\ fondo.jpg);
+    background-size: cover;
+}
+
+#indice {
+    background-image: url(../img/copa.jpg);
+}
+
+#contenido {
+    background-image: url(../img/haaland.jpg);
+    text-align: center;
+    background-position: center center;
+    background-size: cover;
+}
+

@@ -1,0 +1,15 @@
+#indice ul li {
+    font-size: large;
+    text-transform: none;
+}
+
+#indice {
+    list-style-type: none;
+}
+
+#indice p {
+    text-align: center;
+    text-transform: none;
+    font-size: large;
+}
+

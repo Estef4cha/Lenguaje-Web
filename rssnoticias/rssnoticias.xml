@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
 		<title>Noticias Estefan</title>
@@ -6,11 +6,7 @@
 		<description>Noticias sobre el deporte</description>
 		<language>en-us</language>
 		<copyright><![CDATA[ escaatin@gmail.com ]]></copyright>
-		<image>
-			<url></url>
-			<title>Noticias Estefan</title>
-			<link>https://estef4cha.github.io/LenguajeMarca/</link>
-		</image>
+	
 		<item>
 			<title>La FIA revisa la sanción de Sainz</title>
 			<link>https://soymotor.com/f1/noticias/la-fia-se-reunira-con-ferrari-el-18-de-abril-para-revisar-la-sancion-sainz-en-australia</link>
